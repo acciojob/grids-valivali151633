@@ -16,26 +16,26 @@
       border: 2px dotted rgb(38, 38, 43) !important;
     }
 
-    .row1-col1 {
+    .r1c1 {
       background-color: teal;
     }
 
-    .row1-col2 {
+    .r1c2 {
       background-color: thistle;
     }
 
-    .row2-col1 {
+    .r2c1 {
       background-color: tomato;
     }
 
-    .row2-col2 {
+    .r2c2 {
       background-color: turquoise;
     }
 
-    .row3-col1 {
+    .r3c1 {
       background-color: violet;
     }
 
-    .row3-col2 {
+    .r3c2 {
       background-color: yellowgreen;
     }
